@@ -337,5 +337,4 @@ Password_entry.bind("<Button-1>", password_entry_enter)
 
 Password_entry.bind("<Return>", validate)
 
-
 root.mainloop()
